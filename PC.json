@@ -1,0 +1,11 @@
+{
+  "os": "windows-10-pro-22h2",
+  "cpu": "intel-core-i5-2300",
+  "gpu": "nvidia-geforce-gt240",
+  "ram": "6gb-ddr3",
+  "motherboard": "lga1155",
+  "storage": "hdd",
+  "architecture": "x64",
+  "display": "1920x1080",
+  "status": "online"
+}
