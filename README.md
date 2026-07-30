@@ -12,4 +12,4 @@ Github repositores (portfolio): <strong><a href="https://asanalinskiy.github.io"
 
 
 ## PC:
-PC Information in PC.xml file! (in repository <strong><a href="https://github.com/asanalinskiy/asanalinskiy">asanalinskiy/asanalinskiy</a></strong>)
+PC Information in PC.json file! (in repository <strong><a href="https://github.com/asanalinskiy/asanalinskiy">asanalinskiy/asanalinskiy</a></strong>)
