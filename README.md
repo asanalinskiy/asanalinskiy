@@ -11,5 +11,6 @@ I use <strong><a href="https://gemini.google.com">Gemini</a></strong> for vibeco
 Github repositores (portfolio): <strong><a href="https://asanalinskiy.github.io">https://asanalinskiy.github.io</a></strong>
 
 
-## PC:
-PC Information in `PC.json` file! (in repository <strong><a href="https://github.com/asanalinskiy/asanalinskiy">asanalinskiy/asanalinskiy</a></strong>)
+PC info
+--
+PC Information in <a href="https://github.com/asanalinskiy/asanalinskiy/blob/main/PC.json">PC.json</a> file!
