@@ -1,4 +1,4 @@
-<h1>------------------------------Hi there! 👋----------------------------------</h1>
+<h1>------------------------------Hi there! 👋-------------------------------</h1>
 Im - <strong>Asanali</strong>, living in :kazakhstan: and vibecoding sites, programmming lang and other...<br>
 I make sites in <strong><img src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b" width=20 /></strong>
 
